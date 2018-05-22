@@ -1,0 +1,16 @@
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\bin\Debug\Newtonsoft.Json.dll
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\bin\Debug\Newtonsoft.Json.xml
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\MainWindow.g.cs
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\App.g.cs
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate_MarkupCompile.cache
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate_MarkupCompile.lref
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\MainWindow.baml
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.g.resources
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+c:\users\1\documents\visual studio 2017\Projects\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb
